@@ -1,0 +1,2 @@
+# flutterplugin
+com.hieu.flutterplugin
